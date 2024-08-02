@@ -14,8 +14,8 @@ pip3 install web3
 pip install web3
 ```
 ```console
-git clone https://github.com/0xmoei/allora-pancake-bot
-cd allora-pancake-bot
+git clone https://github.com/EsiNakamoto/allora-bet-bot
+cd allora-bet-bot
 ```
 
 ## Run Bot
